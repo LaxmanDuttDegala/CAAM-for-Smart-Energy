@@ -1,0 +1,87 @@
+SURVEY,Year Survey Conducted,0,1,Numeric
+HD65,Heat Deg-Days: Base65 01 TO 12-2005 (Inoculated),0,9,Numeric
+CD65,Cool Deg-Days: Base65 01 TO 12-2005 (Inoculated),0,10,Numeric
+MULTSTV,More than one stove with both burners and oven,2,14,Numeric
+MICRO,Use a microwave Oven to do any cooking,2,27,Numeric
+TOASTER,Do use any electric toaster ovens,2,29,Numeric
+COFFEE,Do you use any electric coffee makers,2,34,Numeric
+NUMFRIG,How many refrigerators do you use in your home,2,37,Numeric
+CWASHER,Use a clothes washer in home,3,12,Numeric
+WASHLOAD,How many loads of laundry are washed in a week,3,14,Numeric
+DRYER,Do you use a clothes dryer in home,3,19,Numeric
+WTBEDUSE,How many heaters are used all year round,3,25,Numeric
+NUMCFAN,How many ceiling fans does your household use,3,27,Numeric
+SWIMPOOL,Does your own swimming pool with filtering system,3,29,Numeric
+POOL,Is it a heated pool,3,30,Numeric
+RECBATH,Does your home have a heated hot tub  spa,3,32,Numeric
+H2OLAWNSYS,Does your home have a lawn watering system,3,34,Numeric
+TVCOLOR,How many TV sets do you use in your home,3,36,Numeric
+TVRECEP,TV connected into cable network or satellite dish,3,39,Numeric
+VCR,How many VCR players in your home,3,42,Numeric
+DVD,How many DVD players in your home,3,43,Numeric
+COMBOVCRDVD,Have any combination VCR/DVD players,3,44,Numeric
+PLAYSTA,Have any TV-based game systems,3,46,Numeric
+TVONWD,Hours TV on during weekdays,3,48,Numeric
+TVONWE,Hours TV on during week end days,3,49,Numeric
+USENOTMOIST,Number of months dehumidifier used each year,3,51,Numeric
+USEMOISTURE,Number of months humidifier used each year,3,53,Numeric
+WELLPUMP,Electric pump for well water,3,54,Numeric
+AQUARIUM,Large heated aquariums of 20 gallons or more,3,56,Numeric
+DIPSTICK,Automobile blocker heaters  dip-stick engine,3,57,Numeric
+NOCORD,A portable cordless telephone,3,58,Numeric
+CELLPHON,A cell or mobile phone,3,59,Numeric
+ANSMACH,A telephone answering machine,3,60,Numeric
+BOOMBOX,Portable stereo/Boom box,3,62,Numeric
+COMPCTST,Compact stereo system,3,63,Numeric
+OTHSTER,Some other type of system,3,65,Numeric
+BATTOOLS,Portable appliances  powered by recharg  battery,3,66,Numeric
+COMPUTER,A personal computer,3,68,Numeric
+NUMPC,How many PCs do you use,3,70,Numeric
+PCTYPE1,Is most-used PC a desk-top or laptop,3,72,Numeric
+PCSCREEN1,Does most-used PC turned off when not in use,3,77,Numeric
+INTERNET,Do you have access to the internet,3,90,Numeric
+INWIRELESS,Do you have a wireless router,3,96,Numeric
+INWIRELESSOFF,Is wireless router turned off when not in use,3,97,Numeric
+HOWPCUSED,PCs mostly used activity,3,98,Numeric
+PCPRINT,Do you have any type of printer,3,100,Numeric
+FAX,Do you have a separate fax machine,3,102,Numeric
+COPIER,A separate photocopier,3,103,Numeric
+FAX,Do you have a separate fax machine,3,102,Numeric
+COPIER,A separate photocopier,3,103,Numeric
+DNTHEAT,Have any heating equipment  Use it or not,4,11,Numeric
+EQMAMT,How much heat main heating equipment provides,4,47,Numeric
+NUMH2OHTRS,Have more than one hot water heater,5,11,Numeric
+AIRCOND,Do you have air conditioning equipment at home,5,18,Numeric
+LGT12,Lights are turned on more than 12 hours per day,5,39,Numeric
+NOUTLGTNT,Number of outdoor lights on all night,5,45,Numeric
+ELWARM,Electricity used for heat,6,19,Numeric
+ELFOOD,Electricity used to cook,6,20,Numeric
+ELCOOL,Electricity used to cool,6,22,Numeric
+ELOTHER,Electricity used for other,6,23,Numeric
+OTHWORK,Any other kind of activity use a lot more energy,8,12,Numeric
+PERIODEL,Period of Time Electric Data Available,10,12,Numeric
+ORIGELQ,Source of Estimated Quantity Of Electricity,10,13,Numeric
+ORIGELC,Source of Estimated Cost Of Electricity,10,14,Numeric
+BTUELCDR,Electric Dryer Use (Estimated),11,21,Numeric
+BTUELDWH,Electric Dishwasher Use (Estimated),11,22,Numeric
+BTUELFZZ,Electric Freezer Use (Estimated),11,23,Numeric
+BTUELRFG,Electric Refrigerator Use (Estimated),11,24,Numeric
+BTUELCOL,Electric AC Use (Estimated),11,25,Numeric
+BTUELWTH,Electric Water Heat Use (Estimated),11,26,Numeric
+BTUELSPH,Electric Space Heat Use (Estimated),11,27,Numeric
+BTUELAPL,Electric Appliance Use (Estimated),11,28,Numeric
+BTUNGAPL,Natural Gas Appliance Use (Estimated),11,29,Numeric
+BTUNGWTH,Natural Gas Water Heat Use (Estimated),11,30,Numeric
+BTUNGSPH,Natural Gas Space Heat Use (Estimated),11,31,Numeric
+BTUFOAPL,Fuel Oil Appliance Use (Estimated),11,32,Numeric
+BTUFOSPH,Fuel Oil Space Heat Use (Estimated),11,33,Numeric
+BTUFOWTH,Fuel Oil Water Heat Use (Estimated),11,34,Numeric
+DOLLAREL,Estimated Cost Of Electricity In Dollars,12,11,Numeric
+DOLELCDR,Electric Clothes Dryer Use (Estimated) In Dollars,12,16,Numeric
+DOLELDWH,Electric Dishwasher Use (Estimated) In Dollars,12,17,Numeric
+DOLELFZZ,Electric Freezer Use (Estimated) In Dollars,12,18,Numeric
+DOLELRFG,Electric Refrigerator Use (Estimated) In Dollars,12,19,Numeric
+DOLELCOL,Electric AC Use (Estimated) In Dollars,12,20,Numeric
+DOLELWTH,Electric Water Heating Use (Estimated) In Dollars,12,21,Numeric
+DOLELSPH,Electric Space Heat Use (Estimated) In Dollars,12,22,Numeric
+DOLELAPL,Electric Appliance Use (Estimated) In Dollars,12,23,Numeric
